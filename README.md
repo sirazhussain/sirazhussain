@@ -11,11 +11,7 @@
 
 - 📫 How to reach me **mdsirazhussain@gmail.com**
 
-<br />
-**I am a self-taught Full-stack web developer from India.**
-<br />
-**I have 1+ Years of experience in web-dev.**
-<br />
+
 
 ## 🌏 **CONNECT WITH ME**
 
