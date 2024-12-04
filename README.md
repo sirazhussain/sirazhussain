@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Fullstack projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sirazkhan0](https://github.com/sirazkhan0)
+- 👨‍💻 All of my projects are available at [https://github.com/sirazhussain](https://github.com/sirazhussain)
 
 - 💬 Ask me about **MERN**
 
@@ -22,7 +22,7 @@
 <a href="https://instagram.com/https://www.instagram.com/itz_siraz_/?next=%2f"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
-<a  href="https://www.linkedin.com/in/sirazkhan1/">
+<a  href="https://www.linkedin.com/in/sirazhussain/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn"  alt="LinkedIn"/>
 </a>
 
