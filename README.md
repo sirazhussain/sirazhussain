@@ -8,7 +8,7 @@
     <img src="https://avatars.githubusercontent.com/u/79441130?v=4" />
   </a>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=200&lines=Siraz+Hussain;Senior+Full+Stack+Developer" alt="Siraz" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=200&lines=Siraz+Hussain;<br>Senior+Full+Stack+Developer" alt="Siraz" />
 </td>
 <td>
 <p align="left">
