@@ -1,14 +1,14 @@
-## 👨‍💻 About Me
+## About Me
 
 <div align="center">
 <table>
 <tr>
 <td width="250" align="center">
   <a href="https://www.linkedin.com/in/sirazhussain/">
-    <img src="https://media.licdn.com/dms/image/v2/D4D03AQHikKtgCDpPoA/profile-displayphoto-scale_100_100/B4DZwpjpIWG8Ac-/0/1770223736298?e=1785974400&v=beta&t=FHUIi5OD4HqU_G5v94bq4IS_q5rYwsvbYpeftGceYJs" alt="Siraz Hussain" width="180" style="border-radius:50%;border:4px solid #0077B5;box-shadow:0 0 15px rgba(0,119,181,0.4);" />
+    <img src="https://avatars.githubusercontent.com/u/79441130?v=4" />
   </a>
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=200&lines=👨‍💻+Siraz+Hussain;Senior+Full+Stack+Developer" alt="Siraz" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=200&lines=Siraz+Hussain;Senior+Full+Stack+Developer" alt="Siraz" />
 </td>
 <td>
 <p align="left">
