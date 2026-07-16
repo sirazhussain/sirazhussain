@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0077B5&center=false&vCenter=false&width=650&lines=Full+Stack+Web+Developer+with+a+passion+for+creating;captivating+user+experiences.+Always+eager+to+explore;new+technologies+and+stay+updated+with+the+latest;full+stack+web+development+trends.+Let's+collaborate!+%F0%9F%9A%80" alt="About Me" />
 </p>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=117EBF&center=false&vCenter=false&width=550&lines=🎯+Specializing+in+MERN+Stack+%7C+React+%7C+Next.js;🚀+Building+scalable+web+applications;💡+Problem+Solver+%7C+Open+Source+Enthusiast;🌱+Always+learning+DSA+with+JavaScript" alt="Quick Info" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=1000&color=117EBF&center=false&vCenter=false&width=550&lines=🎯+Specializing+in+MERN+Stack+%7C+React+%7C+Next.js;🚀+Building+scalable+web+applications;💡+Problem+Solver+%7C+Open+Source+Enthusiast;" alt="Quick Info" />
 </p>
 </td>
 </tr>
