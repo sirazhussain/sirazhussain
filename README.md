@@ -32,12 +32,12 @@
 ## 🎯 **Professional Summary**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer+%7C+MERN+Stack+Specialist;Transforming+designs+into+interactive+masterpieces;Passionate+about+building+scalable+web+applications;Open+Source+Contributor+%7C+DSA+Enthusiast+%F0%9F%9A%80" alt="Professional Summary" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=750&lines=Senior +Full+Stack+Web+Developer+%7C+MERN+Stack+Specialist;Transforming+designs+into+interactive+masterpieces;Passionate+about+building+scalable+web+applications;Open+Source+Contributor+%7C+DSA+Enthusiast+%F0%9F%9A%80" alt="Professional Summary" />
 </p>
 
 <!-- Animated Stats Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0077B5,117EBF,37AEE2&height=30&section=before&text=💻+500%2B+Commits+%7C+📁+50%2B+Projects+%7C+⭐+200%2B+Stars+%7C+👥+100%2B+Followers&fontSize=12&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Stats Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,0077B5,117EBF,37AEE2&height=30&section=before&text=💻+500%2B+Commits+%7C+📁+100%2B+Projects+%7C+⭐+200%2B+Stars+%7C&fontSize=12&fontColor=ffffff&fontAlignY=50&animation=fadeIn" alt="Stats Banner" />
 </p>
 
 ---
