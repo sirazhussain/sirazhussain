@@ -1,5 +1,3 @@
-## About Me
-
 <div align="center">
 <table>
 <tr>
