@@ -19,10 +19,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sirazhussain&label=Profile%20Views&color=00BFFF&style=flat-square" alt="Profile Views" />
-</p>
-
 ## About Me
 
 I’m a passionate full-stack developer focused on creating fast, scalable, and user-friendly digital experiences. I enjoy turning ideas into real products — from frontend interfaces to backend systems, APIs, and deployment workflows.
